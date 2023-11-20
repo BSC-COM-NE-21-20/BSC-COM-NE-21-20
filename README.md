@@ -1,13 +1,19 @@
 - 👋 Hi, I’m Spark Wilson Spink
-- 👀 I’m interested in ...AI, Cyber Security, Machine Learning [ML] & Network Spoofing
+- Hails from Blantyre-Lilongwe 3, Malawi Africa
+- I do AI, Machine Learning, Network Spoofing, Ethical Hacking [both Deffessive && Offessive]
+- 👀 I’m interested in ...Metasploit and AirCracking
 - 🌱 I’m currently learning ...Machine Learning, AI, Cryptography & Linux Administration
-- 💞️ I’m looking to collaborate on ...>>
--                         1. Software/Web/App development in ReactJs,
--                         2. NestJs,
-                          3. PHP/Laravel,
-                          4. Flutter,
-                          5. React Native,
-                          6. Android Studio &
+- 💞️ I’m looking to collaboration on ...>>
+-                         >> Software development for:
+-                         a. Web
+-                         b. App development in all frameworks
+-                     
+-                         1. NestJs,
+                          2. PHP/Laravel,
+                          3. Flutter,
+                          4. React Native,
+                          5. Android Studio &
+                          6. PhoneGap
 - 📫 How to reach me ...>>
 - 1. Whatsapp: +265 993 140 464
   2. Facebook: https://www.facebook.com/profile.php?id=100068017056760&sk=about
