@@ -3,7 +3,7 @@
 - I do AI, Machine Learning, Network Spoofing, Ethical Hacking [both Deffessive && Offessive]
 - 👀 I’m interested in ...Metasploit and AirCracking
 - 🌱 I’m currently learning ...Machine Learning, AI, Cryptography & Linux Administration
-- 💞️ I’m looking to collaboration on ...>>
+- 💞️ I’m looking to collaborate on ...>>
 -                         >> Software development for:
 -                         a. Web
 -                         b. App development in all frameworks
