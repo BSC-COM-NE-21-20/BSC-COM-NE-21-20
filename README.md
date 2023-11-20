@@ -15,13 +15,14 @@
                           5. Android Studio &
                           6. PhoneGap
 - 📫 How to reach me ...>>
-- 1. Whatsapp: +265 993 140 464
+- 1. Whatsapp: https://wa.me/265+265993140464
   2. Facebook: https://www.facebook.com/profile.php?id=100068017056760&sk=about
   3. LinkedIn: https://www.linkedin.com/in/spark-wilson-spink-100681254/
   4. Twitter(X): https://twitter.com/SpinkWilsonSpin
   5. ResearchGate: https://www.researchgate.net/profile/Spark-Spink
   6. Fiverr: https://www.fiverr.com/spark_wilson_sp?up_rollout=true
-  7. Youtube: https://www.youtube.com/@SparkWilsonSpink 
+  7. Youtube: https://www.youtube.com/@SparkWilsonSpink
+  8. github: https://github.com/BSC-COM-NE-21-20/
 
 <!---
 BSC-COM-NE-21-20/BSC-COM-NE-21-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
