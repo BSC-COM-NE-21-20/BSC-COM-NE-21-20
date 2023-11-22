@@ -19,7 +19,7 @@
 - 1. Whatsapp: https://wa.me/265+265993140464
   2. Facebook: https://www.facebook.com/profile.php?id=100068017056760&sk=about
   3. LinkedIn: https://www.linkedin.com/in/spark-wilson-spink-100681254/
-  4. Twitter(X): https://twitter.com/SpinkWilsonSpin
+  4. Twitter(X): https://twitter.com/SparkWilson2022
   5. ResearchGate: https://www.researchgate.net/profile/Spark-Spink
   6. Fiverr: https://www.fiverr.com/spark_wilson_sp?up_rollout=true
   7. Youtube: https://www.youtube.com/@SparkWilsonSpink
