@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Spark Wilson Spink
-- Hails from Blantyre & Lilongwe 3, Malawi Africa
-- I do AI, Machine Learning, Network Spoofing, Ethical Hacking [both Deffessive && Offessive]
+- ✨ Hails from Blantyre & Lilongwe 3, Malawi Africa
+- 🌱 I do AI, Machine Learning, Network Spoofing, Ethical Hacking [both Deffessive && Offessive]
 - 👀 I’m interested in ...Metasploit and AirCracking
 - 🌱 I’m currently learning ...Machine Learning, AI, Cryptography & Linux Administration
 - 💞️ I’m looking to collaborate on ...>>
